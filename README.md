@@ -54,32 +54,7 @@ Core concepts: Object-Oriented Programming (OOP), Data Structures, Algorithms, C
 
 ---
 
-## Featured Projects
 
-### [Chefaa — Flutter Healthcare App](https://github.com/SondosAhmed16/Chefaa)
-A cross-platform healthcare mobile application built with Flutter and Dart, connected to the healthcare platform backend.
-- Organized the codebase using Clean Architecture with presentation, domain, and data layers.
-- Managed UI state using Cubit.
-- Integrated RESTful APIs and a JWT-based authentication flow.
-- Built reusable widgets and applied OOP and clean code practices.
-
-### [Shefaa — Healthcare Backend](https://github.com/SondosAhmed16/shefaa-backend)
-A healthcare backend system developed with Node.js, Express, and MongoDB for clinics and medical laboratories.
-- Implemented JWT-based authentication and authorization.
-- Designed data schemas and validation using Mongoose.
-- Built RESTful APIs for patient records, doctor assignments, and laboratory reports.
-- Separated routing and business logic to keep the codebase maintainable.
-
-### [Products CRUD App](https://github.com/SondosAhmed16/product_CRUD)
-A Node.js and Express application for product management.
-- Implemented create, read, update, and delete operations.
-- Organized the application into controllers, services, and routes.
-- Used Pug templates and Bootstrap for server-rendered pages.
-
-### [PrayerTime App](https://github.com/SondosAhmed16/PrayerTime)
-A standalone Java application that calculates and displays daily prayer times, structured using object-oriented programming principles.
-
----
 
 ## Education
 
