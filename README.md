@@ -1,4 +1,4 @@
-# Hi, I'm Sondos Ahmed 👋
+# Hi, I'm Sondos Ahmed 
 
 **Flutter Developer | Node.js Backend Developer**
 
@@ -10,12 +10,12 @@ I enjoy working across the mobile and backend sides of an application — from s
 
 ## About Me
 
-- 🎓 B.S. in Computer Science — Faculty of Computers and Information, Menoufia University
-- 📱 Focused on cross-platform mobile development with Flutter and Dart
-- ⚙️ Backend experience with Node.js, Express.js, MongoDB, and RESTful APIs
-- 🧱 Interested in Clean Architecture, Cubit/BLoC state management, and object-oriented design
-- 🔐 Familiar with JWT-based authentication and API integration
-- 🌱 Always learning and improving through hands-on projects
+-  B.S. in Computer Science — Faculty of Computers and Information, Menoufia University
+-  Focused on cross-platform mobile development with Flutter and Dart
+-  Backend experience with Node.js, Express.js, MongoDB, and RESTful APIs
+-  Interested in Clean Architecture, Cubit/BLoC state management, and object-oriented design
+-  Familiar with JWT-based authentication and API integration
+-  Always learning and improving through hands-on projects
 
 ## Technical Skills
 
@@ -49,18 +49,6 @@ I enjoy working across the mobile and backend sides of an application — from s
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-Core concepts: Object-Oriented Programming (OOP), Data Structures, Algorithms, Clean Code, MVC, and layered architecture.
-
----
-
-
-
-## Education
-
-**Bachelor of Science in Computer Science**  
-Faculty of Computers and Information, Menoufia University  
-GPA: **3.33 / 4.00** · October 2022 – July 2026
 
 ---
 
